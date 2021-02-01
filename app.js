@@ -1,6 +1,11 @@
 var fs = require('fs');
 readline = require('readline');
 
+if(process.argv.length !== 3)
+{
+  console.log("enter text file name as arguement");
+  return 1;
+}
 var rd = readline.createInterface({
     input: fs.createReadStream(process.argv[2])
 });
@@ -28,6 +33,4 @@ rd.on('line', function(line) {
     }
 
 });
-
-
 });

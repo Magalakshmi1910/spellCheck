@@ -1,1 +1,1 @@
-almost evry pgramming lang ments regular exprsions. There are small diffeces between each implementation, but the general concepts apply almost everywhere when it was formalized as a conptual sarch pattern for string processing algorithms.
+almost evry pgramming lang ments regular exprsions. There are small diffeces between each implementation, but the general concepts apply almost everywhere when it was formalized as a conptual sarch pattern for string processing algorithms
